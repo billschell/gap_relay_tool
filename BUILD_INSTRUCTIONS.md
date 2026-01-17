@@ -236,14 +236,3 @@ If you have issues, please include:
 * Full error output
 
 ```
-
----
-
-If you want, I can also:
-- Add a **BOOT-button note** specific to your ESP32 board
-- Lock tool versions for **reproducible builds**
-- Create a **CI build check** (GitHub Actions)
-- Add a **Makefile-style wrapper** (`make flash`)
-
-Just tell me what board you’re using and how polished you want this to be.
-```
