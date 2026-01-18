@@ -160,7 +160,3 @@ gap_relay_tool/
 ├── include/
 └── test/
 ```
-
-## License
-
-This project is provided as-is for educational and development purposes.
