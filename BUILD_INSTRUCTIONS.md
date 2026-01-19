@@ -229,10 +229,3 @@ This project is tested with:
 * ESP32 Arduino framework
 * CLI-only workflow (no IDE dependency)
 
-If you have issues, please include:
-
-* OS
-* `pio --version`
-* Full error output
-
-```
