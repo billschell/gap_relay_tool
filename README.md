@@ -1,6 +1,7 @@
 # GAP Relay Tool
 
-A PlatformIO-based firmware for ESP32-S3 that controls 40 relay outputs via five MAX4820 8-channel relay driver chips. Designed for controlling both latching and non-latching relays through a serial command interface.
+A PlatformIO-based firmware for ESP32-S3 that controls 40 relay outputs via five MAX4820 8-channel relay driver chips. This is testing code for 2nd generation GAP Tuner hardware.
+It controls both latching and non-latching relays through a serial command interface.
 
 ## Features
 
